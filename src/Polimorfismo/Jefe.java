@@ -46,7 +46,4 @@ public class Jefe extends Persona {
     public void setInversiones(int inversiones) {
         this.inversiones = inversiones;
     }
-    
-    
-    
 }

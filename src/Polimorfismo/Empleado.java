@@ -46,6 +46,4 @@ public class Empleado extends Persona {
     public void setSueldo(Double sueldo) {
         this.sueldo = sueldo;
     }
-    
-    
 }

@@ -25,4 +25,3 @@ public class Herencia {
         perso = consul;
     }
 }
-    
