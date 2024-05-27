@@ -14,6 +14,9 @@ public class Herencia {
     
         Empleado emple = new Empleado();
         
+        emple.setNum_trabajo(123);
+        emple.setNombre("Hernan");
+        emple.setCargo("actor");
         emple.getNum_trabajo();
         emple.getNombre();
         
